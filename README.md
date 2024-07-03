@@ -24,11 +24,9 @@ A General-to-Specific Statistical Modeling Approach for Bank Telemarketing Succe
   > Feature selection.
   > Visualizing important variables.
 4. Model Building (Train Dataset)
-  > K-fold validation for robust model evaluation.
-  > Building and evaluating the following models:
-    > Logistic Regression (LR).
-      > Generalized Linear Model (GLM) evaluation on the test set.
-      >Improving model performance by adjusting the threshold.
+>> K-fold validation for robust model evaluation.
+>> Building and evaluating the following models:
+    > Logistic Regression (LR).: Generalized Linear Model (GLM) evaluation on the test set. Improving model performance by adjusting the threshold.
     > Random Forest (RF) model evaluation on the test set.
     > Naive Bayes (NB) model evaluation on the test set.
     > Decision Tree (DT) model evaluation on the test set.
