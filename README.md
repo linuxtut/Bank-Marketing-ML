@@ -11,11 +11,11 @@ A General-to-Specific Statistical Modeling Approach for Bank Telemarketing Succe
 *Table of Contents*
 1. Introduction
 2. Brief overview of the project and its objectives.
-  > Environment Setup
-  > Clearing the environment.
-  > Loading necessary libraries.
-  > Reading the datasets.
-  > Exploratory Analysis
+> Environment Setup
+>> Clearing the environment.
+>> Loading necessary libraries.
+> Reading the datasets.
+3. Exploratory Analysis
   > Identifying outliers.
   > Conducting correlation analysis.
 3. Data Preprocessing
